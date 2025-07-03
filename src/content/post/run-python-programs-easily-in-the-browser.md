@@ -60,7 +60,7 @@ globalThis.onmessage = async (event) => {
 
   const file = event.data
   try {
-    console.log('file', file)
+    // file loaded
     const startTime = Date.now()
     globalThis.pyodide.FS.writeFile(`/${file.filename}`, file.buffer)
 
