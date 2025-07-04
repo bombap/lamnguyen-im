@@ -1,23 +1,44 @@
 [
 	{
-		"dates": "June 2018 · Present",
-		"role": "Front-end Engineer",
-		"company": "Full Truck Alliance",
-		"description": "Responsible for customer service and CRM system front-end development.",
-		"logo": "/assets/images/experiences/fta.ico"
+		"dates": "03/2025 - Nay",
+		"role": "Founder - CEO",
+		"company": "Công ty SmartStartup JSC",
+		"description": "Lĩnh vực Trí tuệ nhân tạo.",
+		"logo": ""
 	},
 	{
-		"dates": "July 2015 · June 2018",
-		"role": "Front-end Engineer",
-		"company": "YOHO!",
-		"description": "Responsible for mobile front-end development of e-commerce platform.",
-		"logo": "/assets/images/experiences/yoho.ico"
+		"dates": "03/2023 - 06/2024",
+		"role": "Founder - CEO",
+		"company": "Công ty MTV Phúc Quân Tech",
+		"description": "Lĩnh vực Blockchain.",
+		"logo": ""
 	},
 	{
-		"dates": "September 2014 · July 2015 ",
-		"role": "Node.JS Developer",
-		"company": "WuLian",
-		"description": "Intern, involved in the development of Internet of Things cloud systems.",
-		"logo": "/assets/images/experiences/wulian.ico"
+		"dates": "03/2020 - 03/2022",
+		"role": "Founder - CEO",
+		"company": "Công ty Thương mại và Công nghệ Phúc Quân",
+		"description": "Kinh doanh và phát triển các giải pháp Smart Home.",
+		"logo": ""
+	},
+	{
+		"dates": "03/2017 - 11/2017",
+		"role": "Founder",
+		"company": "Nhà hàng Ẩm thực Xứ Quảng",
+		"description": "Khởi nghiệp và điều hành nhà hàng ẩm thực đặc sản miền Trung tại Đồng Hới.",
+		"logo": ""
+	},
+	{
+		"dates": "05/2016 - 12/2016",
+		"role": "Founder",
+		"company": "Công ty cắt khắc CNC Hoàng Khải",
+		"description": "Thành lập và vận hành doanh nghiệp chuyên về cắt khắc CNC tại Đồng Hới.",
+		"logo": ""
+	},
+	{
+		"dates": "07/2015 - 01/2016",
+		"role": "Founder",
+		"company": "Zhen Plus",
+		"description": "Nền tảng quản lý sản phẩm đa kênh các sàn thương mại điện tử eBay, Esty, Shopify, WooCommerce.",
+		"logo": ""
 	}
 ]

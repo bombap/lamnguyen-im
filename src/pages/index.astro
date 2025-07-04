@@ -6,7 +6,7 @@ import Writings from "../components/home/writings.astro";
 import Layout from "../layouts/main.astro";
 ---
 
-<Layout title="Lam Nguyen">
+<Layout title="Nguyễn Hoàng Lâm">
   <div
     class="relative z-20 w-full max-w-4xl mx-auto mt-16 px-7 md:mt-24 lg:mt-32 xl:px-0"
   >
@@ -15,25 +15,25 @@ import Layout from "../layouts/main.astro";
         <h1
           class="mb-5 text-4xl font-bold leading-tight md:text-4xl lg:text-6xl dark:text-white"
         >
-          Hello, I'm <br />Lam Nguyen.
+          Xin chào, tôi là <br />Lâm Nguyễn.
         </h1>
         <p class="mb-6 text-base text-neutral-600 dark:text-neutral-400">
-          I'm a software engineer living in Da Nang, Vietnam. <br
-            class="hidden lg:block"
-          />I focus on AI and web development. I'm also an entrepreneur and
-          investor.
+          Tôi là một kỹ sư phần mềm và nhà sáng lập startup công nghệ tại Đà
+          Nẵng. Với niềm đam mê về AI và tự động hóa, tôi tập trung xây dựng các
+          giải pháp thông minh giúp doanh nghiệp tối ưu vận hành và phát triển
+          bền vững.
         </p>
         <p class="mb-2 font-semibold text-neutral-800 dark:text-neutral-200">
-          I can help you out with:
+          Các lĩnh vực chuyên môn của tôi:
         </p>
         <ul
           class="py-2 space-y-[3px] text-sm list-disc list-inside text-neutral-500 dark:text-neutral-400"
         >
-          <li>AI Development</li>
-          <li>Web Development</li>
-          <li>Software Development</li>
-          <li>Entrepreneurship</li>
-          <li>and more...</li>
+          <li>Tư vấn chiến lược chuyển đổi số toàn diện</li>
+          <li>Phát triển sản phẩm ứng dụng AI & Machine Learning</li>
+          <li>Xây dựng hệ thống Web & SaaS quy mô lớn</li>
+          <li>Tự động hóa quy trình vận hành doanh nghiệp</li>
+          <li>Tối ưu hóa hiệu suất & trải nghiệm người dùng</li>
         </ul>
         <Button text="Follow me on 𝕏" link="https://x.com/0xLamNguyen" />
       </div>
@@ -53,16 +53,16 @@ import Layout from "../layouts/main.astro";
               >
             </span>
           </div>
-          <div class="relative z-30 px-10">
+          <div class="relative z-30">
             <img
-              src="/assets/images/photo.png"
+              src="/assets/images/photo-3.jpg"
               loading="eager"
               decoding="auto"
-              class="relative z-30 w-full aspect-[790/1189] md:max-w-md mx-auto dark:-translate-y-0.5"
+              class="relative z-30 w-full aspect-[790/1189] md:max-w-md mx-auto dark:-translate-y-0.5 rounded-xl"
             />
           </div>
           <div
-            class="absolute bottom-0 right-0 z-20 w-full h-full lg:h-[420px] translate-x-0 -translate-y-px border border-dashed rounded-2xl bg-gradient-to-r dark:from-neutral-950 dark:via-black dark:to-neutral-950 from-white via-neutral-50 to-white border-neutral-300 dark:border-neutral-700"
+            class="absolute top-0 right-0 z-20 w-full h-full translate-x-0 border border-dashed rounded-xl bg-gradient-to-r dark:from-neutral-950 dark:via-black dark:to-neutral-950 from-white via-neutral-50 to-white border-neutral-300 dark:border-neutral-700"
           >
           </div>
         </div>
@@ -70,8 +70,8 @@ import Layout from "../layouts/main.astro";
     </div>
   </div>
 
-  <Separator text="Check out my projects" />
+  <Separator text="Các dự án của tôi" />
   <Projects />
-  <Separator text="Some of my writing" />
+  <Separator text="Bài viết của tôi" />
   <Writings />
 </Layout>
