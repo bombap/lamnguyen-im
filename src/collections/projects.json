@@ -1,38 +1,38 @@
 [
 	{
-		"name": "TempMail.Best",
-		"description": "Best Temporary Email.",
-		"image": "/assets/images/projects/tempmail.best.png",
-		"url": "https://tempmail.best"
+		"name": "Automate.vn",
+		"description": "Nền tảng chia sẻ workflow Automation.",
+		"image": "/assets/images/projects/automate.png",
+		"url": "https://automate.vn"
 	},
 	{
-		"name": "DNS.Surf",
-		"description": "Querying DNS Resolution Results in Different Regions Worldwide.",
-		"image": "/assets/images/projects/dns.surf.png",
-		"url": "https://dns.surf"
+		"name": "Taoprompt.com",
+		"description": "Tạo prompt AI chuyên nghiệp với chế độ Nhanh và Chuyên gia.",
+		"image": "/assets/images/projects/taoprompt.png",
+		"url": "https://taoprompt.com"
 	},
 	{
-		"name": "HTML.ZONE",
-		"description": "Web Toolbox.",
-		"image": "/assets/images/projects/html.zone.png",
-		"url": "https://html.zone"
+		"name": "Khoinghiep.ai",
+		"description": "Bộ công cụ AI phân tích thị trường cho doanh nghiệp.",
+		"image": "/assets/images/projects/khoinghiepai.png",
+		"url": "https://khoinghiep.ai"
 	},
 	{
-		"name": "Sink",
-		"description": "A Simple / Speedy / Secure Link Shortener with Analytics.",
-		"image": "/assets/images/projects/sink.cool.png",
-		"url": "https://sink.cool"
+		"name": "ChatYourAi.com",
+		"description": "AI chatbot hỗ trợ tìm kiếm thông tin.",
+		"image": "/assets/images/projects/chatyourai.png",
+		"url": "https://chatyourai.com"
 	},
 	{
-		"name": "BroadcastChannel",
-		"description": "Turn your Telegram Channel into a MicroBlog.",
-		"image": "/assets/images/projects/broadcast-channel.png",
-		"url": "https://github.com/ccbikai/BroadcastChannel"
+		"name": "AI Tóm tắt sách",
+		"description": "Tóm tắt sách và bài viết bằng AI.",
+		"image": "/assets/images/projects/tomtat.png",
+		"url": "https://tomtat.xyz"
 	},
 	{
-		"name": "L(O*62).ONG",
-		"description": "Make your URL looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooonger",
-		"image": "/assets/images/projects/long.png",
-		"url": "https://loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong"
+		"name": "Blockchain Solutions",
+		"description": "Giải pháp blockchain cho doanh nghiệp.",
+		"image": "/assets/images/projects/blockchain.png",
+		"url": "https://blockchain.solutions"
 	}
 ]
